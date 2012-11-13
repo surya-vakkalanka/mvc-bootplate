@@ -1,6 +1,6 @@
 [submodule "enyo"]
 	path = enyo
-	url = https://github.com/clinuz/enyo.git
+	url = https://github.com/enyojs/enyo.git
 [submodule "lib/onyx"]
 	path = lib/onyx
 	url = https://github.com/enyojs/onyx.git
@@ -9,4 +9,4 @@
 	url = https://github.com/enyojs/layout.git
 [submodule "lib/mvc"]
 	path = lib/mvc
-	url = https://github.com/clinuz/mvc.git
+	url = https://github.com/enyojs/mvc.git
